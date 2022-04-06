@@ -182,10 +182,11 @@ sr.reveal(`.about__img-overlay,
 })
 
 // 이메일 작성 -> 버튼 누른 후 페이지 이동 -> goback시 이메일 지워지는 기능 구현
+
 /*==================== EMAIL POST BTN ====================*/
 // const obj = document.getElementsByClassName('subscribe__input');
 // function test() {
 //         for (let i = 0; i < obj.length; i++) {
 //             obj[i].value = '';
 //         }
-// }
+// };
